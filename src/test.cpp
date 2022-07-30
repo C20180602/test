@@ -1,7 +1,8 @@
 #include<cstdio>
+#include<cstring>
+#include<algorithm>
+#include<test.hpp>
 int main()
 {
-    int a,b;
-    scanf("%d%d",&a,&b);
-    printf("%d",a+b);
+   
 }

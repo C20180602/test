@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 project(test)
 set(CMAKE_CXX_STANDARD_REQUIRED 11)
+include_directories(include/)
 add_executable(test src/test.cpp)
